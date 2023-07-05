@@ -37,7 +37,7 @@ Visit the web page at http://localhost:6001 At this point the database is empty.
 ### In another terminal connect to the shell of the Docker container
 
 ```
-docker exec -it pydiggercom_cron_1 bash
+docker exec -it pydiggercom-cron-1 bash
 ```
 
 To run the tests type in
